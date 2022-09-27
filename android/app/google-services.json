@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63564259399",
+    "project_id": "course-reg-77b03",
+    "storage_bucket": "course-reg-77b03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63564259399:android:7548032e690fc669c99162",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63564259399-5reu3nruiri64a67dr9oi2mgqaeua86j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkGLpX048IezhqGPwWTd_dbe4aG5P5X5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63564259399-5reu3nruiri64a67dr9oi2mgqaeua86j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
